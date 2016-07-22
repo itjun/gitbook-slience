@@ -8,6 +8,6 @@
 * [chapter05](chapter05.md)
 * [chapter06](chapter06.md)
 * [chapter07](chapter07.md)
-* [chapter08](ch.md)
-* [chapter08](ch.md)
+* [chapter08](chapter08.md)
+* [Verson0](原著小说.md)
 
