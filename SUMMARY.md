@@ -8,5 +8,6 @@
 * [chapter05](chapter05.md)
 * [chapter06](chapter06.md)
 * [chapter07](chapter07.md)
-* [原著小说](原著小说.md)
+* [chapter08](ch.md)
+* [chapter08](ch.md)
 
