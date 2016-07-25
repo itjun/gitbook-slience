@@ -9,7 +9,6 @@
 * [chapter06](chapter06.md)
 * [chapter07](chapter07.md)
 * [chapter08](chapter08.md)
-
 * [chapter09](chapter09.md)
 * [chapter10](chapter10.md)
 * [chapter11](chapter11.md)
