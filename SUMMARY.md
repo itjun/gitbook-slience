@@ -17,6 +17,6 @@
 * [第十四章 致命的选拔](chapter14.md)
 * [第十五章 老Ａ的训练](chapter15.md)
 * [第十六章 落魄](chapter16.md)
-* [chapter17](chapter17.md)
-* [chapter18](chapter18.md)
+* [第十七章 归宿](chapter17.md)
+* [第十八章 爱沙尼亚](chapter18.md)
 
