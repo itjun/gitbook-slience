@@ -1,8 +1,8 @@
 # Summary
 
 * [README](README.md)
-* [chapter01](chapter01.md)
-* [chapter02](chapter02.md)
+* [第一章 死亡角逐](chapter01.md)
+* [第二章 龟儿子](chapter02.md)
 * [chapter03](chapter03.md)
 * [chapter04](chapter04.md)
 * [chapter05](chapter05.md)
